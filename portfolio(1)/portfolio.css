@@ -1,0 +1,87 @@
+
+h1{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+nav{
+    background-color: rgb(97, 97, 97);
+    color: greenyellow;
+   border: 20px solid rgb(97, 97, 97);
+    display: flexbox;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: inline-block;
+    height: 50px;
+    width: 100%; 
+    margin: 5px;
+    padding: 5px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 30px;
+}
+#contactme{
+    align-items: center;
+    float: right;
+    background-color: rgb(97, 97, 97);
+    color:  greenyellow;
+    border: 2px rgb(97, 97, 97) solid;
+    font-family: 'Great Vibes', cursive;
+    font-size: 20px;
+    
+}
+#myport{
+    float: left;
+}
+body{
+    align-items: center;
+    background-color: black;
+    font-family: 'Lobster Two', cursive;  
+
+}
+main{
+    display: flexbox;
+    background-color: grey;
+    border: 20px solid grey;
+    color: greenyellow;
+    display: inline-block;
+    height: 500px;
+    width: 100%;
+    margin: 5px;
+    padding: 5px;
+    
+
+}
+#photo{
+    
+   
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+   
+}
+#name{
+    
+   
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#SAPID{
+    
+   
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+#edu{
+   
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}

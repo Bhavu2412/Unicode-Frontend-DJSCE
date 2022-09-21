@@ -1,0 +1,26 @@
+*{
+    margin: 2px;
+    padding: 2px;
+}
+body{
+    background-color: grey;
+    display: inline-block;
+    font-family: 'Great Vibes', cursive;
+    height: 80px;
+    width: 100%;
+}
+header{
+    background-color: grey;
+    color: greenyellow;
+    display: inline-block;
+    font-family: 'Great Vibes', cursive;
+    height: 80px;
+    width: 100%;
+
+}
+.info{
+    background-color: grey;
+    color: greenyellow;
+    font-family: 'Lobster Two', cursive;  
+}
+
